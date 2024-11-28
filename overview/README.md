@@ -11,10 +11,10 @@ os#13.md    |   about ext2 file system
 
 ### SSD?
    
-ssd#1.md    |   what is SSD?
-ssd#2.md    |   HIL
-ssd#3.md    |   FTL
-ssd#4.md    |   FIL
+ssd#1.md    |   what is SSD?   
+ssd#2.md    |   HIL   
+ssd#3.md    |   FTL   
+ssd#4.md    |   FIL   
 
 (https://files.futurememorystorage.com/proceedings/2012/20120821_TB11_Sykes.pdf)   
 (https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_8qOM5Icpp8hB2SHtm4z57)   
